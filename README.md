@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**karandaryanani/karandaryanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a research data scientist passionate about applying machine learning to solve challenges in climate and sustainability.
 
-Here are some ideas to get you started:
+### What I Build
+- Tools and pipelines for analyzing geospatial data
+- Models to assess and interpret climate risks
+- Data-driven approaches to sustainable finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Guides I Recommend
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Geospatial Data Science Quickstart](https://geopandas.org/en/stable/getting_started/introduction.html)
+- [FastAPI Official Documentation](https://fastapi.tiangolo.com/tutorial/)
+- [React Resources](https://reactjs.org/docs/getting-started.html)
+
+---
+
