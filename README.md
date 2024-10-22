@@ -1,4 +1,4 @@
-## Hello, my name is Karan 👋
+## Hello 👋
 
 I am a researcher interested in leveraging climate data and machine learning tools for sustainable development.
 
